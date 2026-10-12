@@ -1,0 +1,46 @@
+﻿[url=https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField/releases/latest][img]https://badgen.net/github/release/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField/stable[/img][/url] [url=https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField/issues][img]https://badgen.net/github/open-issues/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField[/img][/url]
+
+Adds a bone totem to the hammer. It can be found under `Defense`, `Furniture` and `Misc`. Build a bone totem with a force field to protect your base. The force field repels enemy NPCs the same way the force field around the traders works.
+
+This mod is intended for casual play and should be avoided for competitive servers. 
+
+[size=4]Build Costs[/size]
+[list]
+[*]Wood x10[/*]
+[*]Bone Fragments x10[/*]
+[*]HardAntler x1[/*]
+[/list]
+[b][size=4]
+License[/size]
+[/b][size=3][url=https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField/blob/main/LICENSE]GNU Affero General Public License v3.0[/url][/size]
+[size=3]Closed-source license is available for commercial use.[/size]
+
+[b][size=4]Source[/size][/b]
+[size=3][url=https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField]GitHub[/url][/size]
+
+[b][size=4]Installation (manual)[/size][/b]
+[list=1]
+[*][size=3]Download the latest release archive (zip) file.[/size][/*]
+[*][size=3]Extract the archive into <Steam Location>\steamapps\common\Valheim\BepInEx\plugins[/size][/*]
+[/list]
+
+[b][size=4]Configuration[/size][/b]
+[list]
+[*]hMultiHorizontalLoss - How much to reduce horizontal loss to. 2 = half (1/2), 3 = a third (1/3), ..., 10 = a tenth (1/10)[/*]
+[*]vMultiVerticalLoss - How much to reduce vertical loss to. 2 = half (1/2), 3 = a third (1/3), ..., 10 = a tenth (1/10) [/*]
+[/list]
+[size=4][b]Crossplay[/b]:[/size][size=3] Not compatible with clients without the mod. [/size]
+
+[b][size=4]Issues/Bugs[/size][/b]
+[size=3]Open an issue or bug on the [url=https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField/issues]issue board[/url]﻿﻿.[/size]
+
+[b][size=4]Questions[/size][/b]
+[size=3]Ask a question on the [url=https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField/discussions]discussions board[/url]﻿﻿.[/size]
+
+
+
+[b][size=4]Support Me[/size][/b] @ [url=https://www.buymeacoffee.com/digitalroot]https://www.buymeacoffee.com/digitalroot[/url]
+
+[center][color=#fff2cc][size=3][b]Digitalroot can be found in the Valhalla Legends' Discord[/b][/size][/color]
+
+[url=https://discord.gg/SsMW3rm67u][img]https://digitalroot.net/img/vl/vl_logo_125x154.png[/img][/url]﻿[/center]

@@ -33,8 +33,8 @@ jobs:
       webhook_url: ${{ secrets.VALHEIM_DISCORD_TITANS_WEBHOOK_URL }}
 
     with:
-      sln-file-name: Digitalroot.Valheim.Common.Placeholder
-      proj-file-name: Digitalroot.Valheim.Common.Placeholder
+      sln-file-name: Digitalroot.Valheim.EternalForceField
+      proj-file-name: Digitalroot.Valheim.EternalForceField
       #src-path: src
       #unit-test-path: UnitTests
       skip-unit-tests: true
@@ -46,10 +46,10 @@ jobs:
       #nuget-s3-upload: true
       #nuget-org-upload: true
       nexus-enable-upload: true
-      nexus-mod-id: 000
-      nexus-mod-file-id: 0000
+      nexus-mod-id: 4424
+      nexus-mod-file-id: 8294352
       ts-enable-upload: true
-      ts-name: Placeholder
-      ts-description: "TBD"
+      ts-name: Eternal_Force_Field
+      ts-description: "Build a force field to protect your base."
       ts-categories: "server-side client-side" #https://thunderstore.io/api/experimental/community/valheim/category/
       ts-dependencies: ValheimModding-Jotunn-2.30.0
