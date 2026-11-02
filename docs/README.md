@@ -1,5 +1,8 @@
 # Eternal Force Field
 
+<a href="https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalFire/releases/latest" target="_blank"><img src="https://badgen.net/github/release/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField/stable"></a>
+<a href="https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalFire/issues" target="_blank"><img src="https://badgen.net/github/open-issues/Digitalroot-Valheim/Digitalroot.Valheim.EternalForceField"></a>
+
 ## Summary
 
 Build a force field to protect your base.
